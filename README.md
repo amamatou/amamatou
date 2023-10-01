@@ -1,21 +1,21 @@
 [![MasterHead](https://i.skyrock.net/5050/95225050/pics/3354604976_2_2_hDiEH54l.png)]
 
 <h1 align="center">Hi 👋, I'm Haoua Amamatou Oumar MAIROU</h1>
-<h3 align="center">A Futur state engineer in computer science passionate by developpement, business intelligence and artificial intelligence</h3>
+<h3 align="center">A Futur state engineer in computer science passionate by developpement and security</h3>
 
 <img align="right" alt="Coding" width="400" src="https://steamuserimages-a.akamaihd.net/ugc/1631947648964785474/81CBA15178466DD47195A239232202E78987B714/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amamatou&label=Profile%20views&color=0e75b6&style=flat" alt="amamatou" /> </p>
 
-- 🔭 I’m currently working on **Odoo**
+- 🔭 I’m currently working on **Java and Angular**
 
-- 🌱 I’m currently learning **Python and Odoo**
+- 🌱 I’m currently learning **Javascript**
 
-- 💬 Ask me about **Laravel, JAVA EE**
+- 💬 Ask me about **Computer Science,Java**
 
 - 📫 How to reach me **amamatou2@gmail.com**
 
-- ⚡ Fun fact **I'm funny**
+- ⚡ Fun fact **I'm an animal lover**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
