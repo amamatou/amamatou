@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Java and Angular**
 
-- 🌱 I’m currently learning **Javascript**
+- 🌱 I’m currently learning **Javascript, Angular**
 
 - 💬 Ask me about **Computer Science,Java**
 
