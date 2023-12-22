@@ -7,11 +7,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amamatou&label=Profile%20views&color=0e75b6&style=flat" alt="amamatou" /> </p>
 
-- 🔭 I’m currently working on **Java and Angular**
+- 🔭 I’m currently working on **Vue JS**
 
-- 🌱 I’m currently learning **Javascript, Angular**
+- 🌱 I’m currently learning **Javascript**
 
-- 💬 Ask me about **Computer Science,Java**
+- 💬 Ask me about **Computer Science,Java,Odoo**
 
 - 📫 How to reach me **amamatou2@gmail.com**
 
