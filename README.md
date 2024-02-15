@@ -31,6 +31,9 @@
   </a> 
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
+  </a>
+   <a href="https://www.w3schools.com/js/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original-wordmark.svg" alt="javascript" width="40" height="40"/> 
   </a> 
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
@@ -58,6 +61,12 @@
   </a> 
   <a href="https://laravel.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original-wordmark.svg" alt="laravel" width="40" height="40"/> 
+  </a>
+  <a href="https://fr.react.dev/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
+  </a> 
+  <a href="https://angular.io/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original-wordmark.svg" alt="angular" width="40" height="40"/> 
   </a> 
   <a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> 
@@ -93,7 +102,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-original.svg" alt="photoshop" width="40" height="40"/> 
   </a> 
   <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/xd/xd-original.svg" alt="xd" width="40" height="40"/> 
   </a> 
 </p>
 
