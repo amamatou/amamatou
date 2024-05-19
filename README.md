@@ -1,4 +1,4 @@
-[![MasterHead](https://github.com/amamatou/amamatou/blob/main/github-header-image.png)]
+![MasterHead](https://github.com/amamatou/amamatou/blob/main/github-header-image.png)
 
 <h1 align="center">Hi 👋, I'm Haoua Amamatou Oumar MAIROU</h1>
 <h3 align="center">State engineer in computer science passionate by developpement and security</h3>
