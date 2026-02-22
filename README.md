@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **React JS**
 
-- 💬 Ask me about **Computer Science, Java, Odoo**
+- 💬 Ask me about **Computer Science**
 
 - 📫 How to reach me **mairouhaoua.ao@gmail.com**
 
